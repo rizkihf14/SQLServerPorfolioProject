@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rizki Hari Fitri</h1>
 <h3 align="center">A passionate SQL Server Database Administrator</h3>
 
-- 🔭 I’m currently working on Astra Graphiat IT **SQL Server Specialist For 5++ Years**
+- 🔭 I’m currently working on PT Astra Graphia IT **SQL Server Specialist For 5++ Years**
 
 - 🌱 I’m currently learning **Azure Administrator & Pyhton**
 
