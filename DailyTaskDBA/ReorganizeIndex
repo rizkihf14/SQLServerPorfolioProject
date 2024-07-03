@@ -1,0 +1,2 @@
+ALTER INDEX [YourIndexName] ON [YourSchema].[YourTableName]
+REORGANIZE;
